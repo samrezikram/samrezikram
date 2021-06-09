@@ -17,8 +17,24 @@ by _Elif shafak_ in the genre of Sufism.
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-#FA7343?style=for-the-badge&logo=Swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white)
+![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 ### Cross Platfrom Development
 
 ![React-Native](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+
+### Testing
+
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+## 🔗 Links
+
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samrezikram/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/samrezikram)
+[![yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=00000)](mailto:samrezikram@yahoo.com)
+
+[![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01dff5ac06e2f986ad)
+
