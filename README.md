@@ -17,7 +17,7 @@ by _Elif shafak_ in the genre of Sufism.
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![swift](https://img.shields.io/badge/Swift-#FA7343?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-#FA7343?style=for-the-badge&logo=Swift&logoColor=white)
 
 ### Cross Platfrom Development
 
