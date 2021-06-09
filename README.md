@@ -29,6 +29,17 @@ by _Elif shafak_ in the genre of Sufism.
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+## 📈 Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samrezikram&show_icons=true&hide_border=true" alt="Samrez GitHub Stats">
+</div>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+</div>
+
+
 ## 🔗 Links
 
 
